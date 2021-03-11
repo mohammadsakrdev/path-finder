@@ -1,0 +1,6 @@
+node_modules/
+public
+.vscode/
+/dist
+/logs
+/npm-debug.log
